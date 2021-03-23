@@ -1,0 +1,10 @@
+{
+  "simulation": "RateLimiterTest",
+  "simulationId": "ratelimitertest",
+  "start": 1616506443294,
+  "description": "",
+  "scenarios": ["test6", "test10", "test1", "test3", "test7", "test9", "test2", "test5", "test8", "test4"],
+  "assertions": [
+
+  ]
+}
