@@ -1,0 +1,10 @@
+{
+  "simulation": "TeamControllerTest",
+  "simulationId": "teamcontrollertest",
+  "start": 1620755143734,
+  "description": "",
+  "scenarios": ["getOpenTeamCommunications:5673143", "getOpenTeamCommunications:4827689", "getOpenTeamCommunications:5672075", "getOpenTeamCommunications:4643993", "getOpenTeamCommunications:4828895", "getOpenTeamCommunications:4863847", "getOpenTeamCommunications:5164569", "getOpenTeamCommunications:4605441", "getOpenTeamCommunications:4640321", "getOpenTeamCommunications:4644281"],
+  "assertions": [
+
+  ]
+}
