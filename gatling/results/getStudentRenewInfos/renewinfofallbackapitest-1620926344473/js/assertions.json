@@ -1,0 +1,10 @@
+{
+  "simulation": "RenewInfoFallBackApiTest",
+  "simulationId": "renewinfofallbackapitest",
+  "start": 1620926344473,
+  "description": "",
+  "scenarios": ["getStudentRenewInfos"],
+  "assertions": [
+
+  ]
+}
